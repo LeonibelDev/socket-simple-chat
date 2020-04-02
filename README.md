@@ -3,5 +3,8 @@
 > app.js
 
 ## how to run 
-> npm install
-> npm start
+
+```javascript
+npm install
+npm start
+```
